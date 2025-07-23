@@ -11,7 +11,7 @@ Note: This project was created for the IES Madrid / Universidad Carlos III de Ma
 ## Diagrams
 
 ### EER Model
-![EER Model](./images/EER_Model.png)
+![EER Model](./images/ER_Diagarm.png)
 
 ### Relational Schema
 ![Relational Schema](./images/Relational_Schema.png)
