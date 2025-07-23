@@ -14,4 +14,4 @@ Note: This project was created for the IES Madrid / Universidad Carlos III de Ma
 ![EER Model](./images/ER_Diagarm.png)
 
 ### Relational Schema
-![Relational Schema](./images/Relational_Schema.png)
+![Relational Schema](./images/RelationalSchema.png)
